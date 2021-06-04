@@ -29,7 +29,7 @@
         <!--Bean映射-orika版本-->
         <ORIKA_VERSION>1.5.4</ORIKA_VERSION>
         <!--Bean校验框架-->
-        <HIBERNATE_VALIDATOR_VERSION>6.1.0.Final</HIBERNATE_VALIDATOR_VERSION>
+        <HIBERNATE_VALIDATOR_VERSION>6.1.5.Final</HIBERNATE_VALIDATOR_VERSION>
 
         <!--springfox-swagger框架-->
         <SPRING_FOX_SWAGGER_VERSION>2.9.2</SPRING_FOX_SWAGGER_VERSION>
